@@ -10,3 +10,9 @@ h1 {
     border-width: 20px;
     padding: 50px;
 }
+
+.introduction {
+    margin: auto;
+    margin-bottom: 15px;
+    width: 60%;
+}

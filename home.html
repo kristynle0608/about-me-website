@@ -15,17 +15,21 @@
 </head>
 <body>
 
-    <div class="navbar" id="navbar">
-        <a class="navbar-options active" href="home">Home</a>
-        <a class="navbar-options" href="birbs">Birbs</a>
-        <a class="navbar-options" href="cats">Cats</a>
-        <a class="navbar-options" href="dogs">Dogs</a>
-        <a class="navbar-options" href="bears">Bears</a>
+    <div id="nav-placeholder">
+
     </div>
 
     <h1>Let Me Present</h1>
 
     <div class="introduction">Welcome to <i>Let Me Present</i>! This website will show you the wonders (or some of the abominations) in the animal kingdom.</div>
-    <div class="introduction">Warning! The content on this website are just for fun and should be taken as a joking matter :)</div>
+
 </body>
+
+<script type="text/javascript">
+    $(window).on('load', () => {
+
+        $("#nav-placeholder").load("navbar/navbar.html");
+
+    });
+</script>
 </html>
