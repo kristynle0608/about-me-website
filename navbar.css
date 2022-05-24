@@ -12,6 +12,11 @@
     transition: background-color 0.5s;
 }
 
+.dropdown-btn {
+    display: inline-block;
+    background-color:  #DE4D86;
+}
+
 .navbar-options:hover {
     background-color: #F29CA3;
 }
