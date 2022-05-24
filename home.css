@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(#fdfdc4, #ffe8cf, #ffdede, #ccffec);
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    border-style: double;
+    border-color: white;
+    border-width: 20px;
+    padding: 50px;
+}
