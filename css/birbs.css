@@ -67,6 +67,10 @@ img {
     margin-top: 50px;
 }
 
+.margin-left {
+    margin-left: 50px;
+}
+
 .line-photos {
     display: inline-block;
     border-radius: 0px;
@@ -84,4 +88,8 @@ iframe {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+}
+
+#moon-knight {
+    height: 50%;
 }
