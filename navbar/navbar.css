@@ -19,3 +19,9 @@
 .active {
     background-color: #805D93;
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
