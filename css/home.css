@@ -1,5 +1,7 @@
 body {
     background-image: linear-gradient(#fdfdc4, #ffe8cf, #ffdede, #ccffec);
+    background-repeat: no-repeat;
+    background-size: auto;
     padding-bottom: 40px;
 }
 

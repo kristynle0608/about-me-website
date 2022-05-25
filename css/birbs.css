@@ -53,3 +53,11 @@ img {
 #trash-pigeon {
     width: 18%;
 }
+
+.line-photos {
+    float: left;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 0px;
+    height: 60%;
+}
