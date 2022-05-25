@@ -63,6 +63,10 @@ img {
     width: 18%;
 }
 
+#emperor-penguins {
+    width: 50%;
+}
+
 .margin-top {
     margin-top: 50px;
 }
@@ -92,4 +96,8 @@ iframe {
 
 #moon-knight {
     height: 50%;
+}
+
+#slapping-penguin {
+    width: 34%;
 }
