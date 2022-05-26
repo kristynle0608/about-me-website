@@ -42,3 +42,33 @@ img {
     width: auto;
     height: 100%;
 }
+
+h2 {
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    width: 90%;
+    font-size: 3em;
+    font-family: Verdana, sans-serif;
+    color: midnightblue;
+}
+
+.line-photos {
+    display: inline-block;
+    border-radius: 0px;
+    margin: 0px;
+    height: 40%;
+    width:auto;
+}
+
+.margin-top {
+    margin-top: 50px;
+}
+
+.resources {
+    margin: auto;
+    margin-bottom: 15px;
+    width: 80%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
