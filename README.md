@@ -16,4 +16,4 @@ I wanted to do a project that would show who I am as a person but also would be 
 - CSS
 - JavaScript
 
-###
+### My Opinions on This Project
