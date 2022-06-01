@@ -25,3 +25,8 @@ I wanted to do a project that would show who I am as a person but also would be 
 - My original plan was to write about birds, bears, cats and hedgehogs. When I was writing about pandas, I felt very burnt out. The project wasn't fun to do anymore and I couldn't think of anything to write for cats, even though I absolutely love cats. So, I removed cats and hedgehogs from the website. Maybe one day, I will return to this project and add them to the website. But, for now, there will be only bears and birds.
 
 ### My Opinions on This Project
+At first, I really did enjoy doing this project because it's about animals and it also showcases a side of myself to the world. But, as I was doing it, I started to feel very burnt out. I think it was for a whole week, I'd been working on only web development both during work (a separate project for work term) and during my free time (this project). So, it was very stressful and exhausting. 
+
+I felt this project isn't as good as I thought it would be. This project was basically just a blog that I created, not something that can solve problems and showcase my full skills. Despite that, this project is good for me to practice HTML, CSS, and JS outside of work and school. I took my time to find some things that I never knew before and it's rewarding to think that I'm capable of creating something on my own.
+
+Nevertheless, I'm glad that I did work on this project. Maybe I will return to it someday and add a JS Framework to it to make it prettier. But, I will do something different other than web developemt like cybersecurity.
